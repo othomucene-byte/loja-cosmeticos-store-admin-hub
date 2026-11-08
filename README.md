@@ -1,4 +1,4 @@
-# Loja Cosmeticos - Store & Admin Hub
+# Loja Cosméticos - Store & Admin Hub
 
 Plataforma completa de comércio eletrônico com vitrine de produtos, carrinho de compras interativo e painel administrativo em tempo real.
 
